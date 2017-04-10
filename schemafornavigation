@@ -1,0 +1,27 @@
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+		<li itemprop="name"><a href="https://www.scake.com.tw/">首頁</a></li>
+		<li class="has-child"><a href="javascript:void(0);" class="prod-title">產品介紹</a>
+			<ul class="childNav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+				<li class="subNav" itemprop="name">
+        <a href="https://www.scake.com.tw/product_list/69">母親節蛋糕/歡慶母親節</a>
+        <ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/18">芋頭蛋糕&amp;芋泥蛋糕產品</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/20">紅豆蛋糕-創新古早味</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/76">歐式蛋糕-團購午茶蛋糕</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/67">精緻蛋糕-團購午茶蛋糕</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/74">圓形蛋糕-團購午茶蛋糕</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/73">傳統卷心-團購午茶蛋糕</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/75">乳酪蛋糕-團購午茶蛋糕</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/78">人氣伴手禮產品介紹</a><ul class="navContent"></ul></li>
+        <li class="subNav" itemprop="name"><a href="https://www.scake.com.tw/product_list/79">附件商品</a><ul class="navContent"></ul></li>
+      </ul>
+		</li>
+		<li itemprop="name"><a href="https://www.scake.com.tw/information/14">母親節歡慶特惠免運組</a></li>
+    <li itemprop="name"><a href="https://www.scake.com.tw/information/4">香帥蛋糕品牌相關介紹</a></li>
+    <li itemprop="name"><a href="https://www.scake.com.tw/information/7">門市、百貨展售位置圖</a></li>
+    <li itemprop="name"><a href="https://www.scake.com.tw/information/12">親親媽咪彌月優惠介紹</a></li>
+    <li itemprop="name"><a href="https://www.scake.com.tw/information/8">常見購物流程問答</a></li>
+    <li itemprop="name"><a href="https://www.scake.com.tw/account/edit">會員中心</a></li>
+		<li itemprop="name"><a href="https://www.scake.com.tw/information/contact">線上客服</a></li>
+		<li itemprop="name"><a href="https://www.scake.com.tw/image/2017/02/17/20170217100726.xls">訂購單下載</a></li>
+	</ul>
